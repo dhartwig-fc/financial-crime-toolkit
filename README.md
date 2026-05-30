@@ -1,10 +1,11 @@
 # financial-crime-ai-toolkit
 A portfolio of AI-enabled Financial Crime prototypes demonstrating alert triage, investigator copilots, network analytics and workflow optimisation across AML, TBML, correspondent banking and capital markets compliance.
 
-## Strategic Vision
+# Strategic Vision
 The objective of this toolkit is to demonstrate how Artificial Intelligence, Analytics, Workflow Automation and Network Intelligence can transform Financial Crime Operations while maintaining strong governance, explainability and regulatory compliance.
 
 ## Toolkit Components
+
 ## 1. AI-Enabled Investigator Copilot
 (Python Prototype)
 Provides:
@@ -22,7 +23,7 @@ Provides:
 	●	Investigator summaries
 	●	Dashboard visualisation
 
-# 3. Financial Crime Risk Typology Library
+## 3. Financial Crime Risk Typology Library
 A structured catalogue of Financial Crime risk scenarios covering:
 	●	AML
 	●	TBML
