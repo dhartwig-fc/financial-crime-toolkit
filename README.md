@@ -222,9 +222,9 @@ The objective of this toolkit is to demonstrate how Artificial Intelligence, Ana
 | Investigator Assistance | Reduce manual documentation effort |
 | Report Preparation | Accelerate SAR submission preparation |
 
-Intellectual Property Notice
 
-This repository provides an overview of the Financial Crime AI Transformation Toolkit.
+
+* This repository provides an overview of the Financial Crime AI Transformation Toolkit.
 Detailed methodologies, governance frameworks, implementation artefacts, business cases, operating models and supporting documentation are maintained separately and are not publicly distributed.
 Selected materials may be made available upon request.
 
