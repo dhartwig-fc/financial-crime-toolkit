@@ -24,37 +24,40 @@ The objective of this toolkit is to demonstrate how Artificial Intelligence, Ana
 | 14 | Python Transaction Analytics Prototype | Technical Demonstration | Python-based transaction monitoring and risk scoring prototype | Built |
 | 15 | SAR Narrative Generator | Prototype | AI-assisted SAR drafting and case documentation support | Planned |
 
-## Portfolio Architecture
-The toolkit is organised into six complementary layers, demonstrating how financial crime typologies can be translated into analytics, AI-enabled investigator workflows, governance controls and operational delivery assets.
+# Financial Crime AI Transformation Toolkit
 
-### Intelligence Layer
+---
+
+## Portfolio Architecture
+
+### 🧠 Intelligence Layer
+
 - Financial Crime Risk Typology Library
 
-### Analytics Layer
-- AML Alert Triage Prototype
-- Financial Crime Network Analytics
-- Correspondent Banking Analytics Toolkit
-- Trade Finance & TBML Analytics Toolkit
-- Capital Markets Surveillance Toolkit
+### 📊 Analytics Layer
 
-### AI Enablement Layer
+- AML Alert Triage Prototype
+- Network Analytics
+- Correspondent Banking Analytics
+
+### 🤖 AI Enablement Layer
+
 - AI Investigator Copilot
 - SAR Narrative Generator
 
-### Governance & Strategy Layer
+### 🛡️ Governance & Strategy Layer
+
 - AI Governance Framework
 - Target Operating Model
-- Quantexa + AI Integration Blueprint
-- Business Case & Benefits Framework
-- Executive Board Presentation
+- Quantexa + AI Blueprint
 
-### Delivery Layer
-- Pilot Delivery Plan
-- Proof of Concept Backlog & Jira Pack
+### 🚀 Delivery Layer
 
-### Technical Demonstration Layer
+- Backlog & Jira Pack
+
+### 💻 Technical Demonstration Layer
+
 - Python Transaction Analytics Prototype
-
 ## 1. AI-Enabled Investigator Copilot
 
 | Capability | Description |
