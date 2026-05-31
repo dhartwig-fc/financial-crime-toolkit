@@ -6,7 +6,7 @@
 
 ## Executive Summary
 
-The Financial Crime AI Transformation Toolkit is a portfolio of strategy, governance, architecture, analytics and AI assets designed to demonstrate how Financial Crime Operations can be transformed through Network Intelligence, Analytics, Risk Scoring and Artificial Intelligence.
+The Financial Crime Transformation Toolkit is a portfolio of strategy, governance, architecture, analytics and AI assets designed to demonstrate how Financial Crime Operations can be transformed through Network Intelligence, Analytics, Risk Scoring and Artificial Intelligence.
 
 The portfolio contains practical prototypes, investigation frameworks, risk typologies, scoring methodologies and operating model artefacts covering Anti-Money Laundering (AML), Trade-Based Money Laundering (TBML), Correspondent Banking and Capital Markets use cases.
 
