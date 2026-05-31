@@ -110,8 +110,8 @@ The toolkit is structured as a collection of interconnected repositories that co
 | fc-02-transformation-toolkit | Strategy, governance, architecture and portfolio management repository | Active |
 | fc-03-network-intelligence-library | Entity resolution, graph analytics and network investigation patterns | Active Development |
 | fc-04-tbml-analytics-toolkit | Trade analytics, TBML typologies, scoring models and risk frameworks | Planned |
-| fc-prot01-aml-alert-triage | AI investigation assistant prototype | Complete |
-| fc-prot02-aml-alert-triage | Alert scoring and prioritisation prototype | Complete |
+| fc-prot01-aml-alert-triage | Alert scoring and prioritisation prototype | Complete |
+| fc-prot02-ai-investigator-copilot| AI investigation assistant prototype | Complete |
 
 ---
 
