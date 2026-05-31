@@ -2,7 +2,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/dan-hartwig-financial-crime) | [GitHub Profile](https://github.com/dhartwig-fc)
 
-# Financial Crime AI Transformation Toolkit
+# Financial Crime Transformation Toolkit
 
 ## Executive Summary
 
