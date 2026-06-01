@@ -17,23 +17,22 @@ The toolkit is structured as a collection of interconnected repositories that co
 # Toolkit Components
 
 | # | Component | Category | Description | Status |
-|---|---|---|---|---|
+|---|-----------|----------|-------------|--------|
 | 1 | AI-Enabled Investigator Copilot | AI | Alert summarisation, investigator guidance and case documentation support | V1–V3 Complete |
 | 2 | AML Alert Triage Prototype | Analytics | Risk scoring, alert prioritisation and investigator workflow support | Built |
-| 3 | Financial Crime Risk Typology Library | Intelligence | Structured catalogue of AML, TBML, Correspondent Banking and Capital Markets risk scenarios | Draft |
-| 4 | Financial Crime Network Intelligence Library | Network Intelligence | Entity resolution, beneficial ownership, relationship discovery and graph analytics investigation patterns | Active Development |
-| 5 | Trade Finance & TBML Analytics Toolkit | Analytics | Trade-based money laundering detection, trade analytics and risk scoring frameworks | Planned |
-| 6 | Correspondent Banking Analytics Toolkit | Analytics | Payment flows, sanctions exposure and nested relationship analysis | Planned |
+| 3 | Financial Crime Risk Typology Library | Intelligence | Structured catalogue of AML, TBML, Correspondent Banking, Capital Markets and Network Intelligence typologies | Active Development |
+| 4 | Financial Crime Network Intelligence Library | Analytics | Entity resolution, beneficial ownership, relationship discovery and graph analytics investigation patterns | Active Development |
+| 5 | Correspondent Banking Analytics Toolkit | Analytics | Payment flows, sanctions exposure and nested relationship analysis | Planned |
+| 6 | Trade Finance & TBML Analytics Toolkit | Analytics | Trade-based money laundering detection and trade pattern analysis | Active Development |
 | 7 | Capital Markets Surveillance Toolkit | Analytics | Market abuse, insider dealing and surveillance analytics concepts | Planned |
 | 8 | AI Governance Framework for AML Operations | Governance | Governance, controls, explainability and AI risk management framework | Draft |
-| 9 | Target Operating Model (TOM) | Strategy | Current-state and future-state operating model design | Draft |
-| 10 | Quantexa + AI Integration Blueprint | Architecture | Integration design for network analytics and AI-enabled investigation workflows | Draft |
-| 11 | Business Case & Benefits Realisation Framework | Strategy | Benefits tracking, ROI assessment and transformation value case | Draft |
-| 12 | Executive Board Presentation | Strategy | Executive-level transformation vision and investment proposal | Draft |
-| 13 | Proof of Concept Backlog & Jira Pack | Delivery | Product backlog, user stories and sprint planning artefacts | Draft |
-| 14 | Python Transaction Analytics Prototype | Technical Demonstration | Python-based transaction monitoring and risk scoring prototype | Built |
-| 15 | SAR Narrative Generator | AI | AI-assisted SAR drafting and case documentation support | Planned |
-
+| 9 | Target Operating Model (TOM) | Transformation | Future-state operating model for AI-enabled Financial Crime Operations | Draft |
+| 10 | Transformation Roadmap | Transformation | Phased implementation approach and delivery milestones | Draft |
+| 11 | Business Case & Value Framework | Transformation | Benefits realisation, KPI framework and investment justification | Draft |
+| 12 | Executive Board Presentation | Transformation | Strategic presentation materials for executive stakeholders | Draft |
+| 13 | Proof of Concept Backlog & Jira Pack | Delivery | Product backlog, user stories and delivery artefacts | Draft |
+| 14 | Python Transaction Analytics Prototype | Prototype | Demonstration transaction analytics, scoring models and visualisation concepts | Built |
+| 15 | SAR Narrative Generator | AI | AI-assisted Suspicious Activity Report narrative generation and investigator support | Concept |
 ---
 
 # Portfolio Architecture
