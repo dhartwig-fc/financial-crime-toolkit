@@ -320,10 +320,12 @@ Emerging Threat Intelligence provides the strategic input into the transformatio
 | fc-03-network-intelligence-library | Network analytics and investigation frameworks |
 | fc-04-tbml-analytics-toolkit | Trade analytics and TBML typologies |
 | fc-05-sanctions-exposure-analytics-toolkit | Sanctions exposure analytics |
-| fc-06-corresponding-banking-analytics-toolkit | Banking and Correspondent banking analytics |
+| fc-06-corresponding-banking-analytics-toolkit | Correspondent banking analytics |
 | fc-07-capital-markets-analytics-toolkit | Capital Markets and surviellance analytics |
 | fc-08-emerging-threat-intelligence | Horizon scanning and threat intelligence |
 | fc-09-detection-strategy-library | Threat-to-detection mapping and scenario engineering |
+| fc-10-case-management-investigation-worklows | Investigation orchestration and case lifecycle management |
+| fc-11-pattern-factory | Documentation standards for analytics patterns |
 | fc-prot01-aml-alert-triage | AML triage prototype |
 | fc-prot02-ai-investigator-copilot | AI-enabled Investigator Copilot prototype |
 | fc-rm01-ai-transformation-roadmap | Structured AI learning roadmap |
@@ -338,11 +340,12 @@ Emerging Threat Intelligence provides the strategic input into the transformatio
 |----------|----------|
 | ✅ Complete | Portfolio Website |
 | ✅ Complete | Transformation Framework |
-| 🚧 In Progress | Network Intelligence Library |
+| ✅ Complete | Transformation Framework |
+| ✅ Complete  | Showcase build |
 | 🚧 In Progress | TBML Analytics Toolkit |
 | 🚧 In Progress | Sanctions Analytics Toolkit |
 | 🚧 In Progress | Banking Analytics Toolkit |
-| Planned | Capital Markets Analytics Toolkit |
+| 🚧 In Progress | Capital Markets Analytics Toolkit |
 | Planned | AI Governance Framework |
 | Planned | Detection Strategy Library |
 
