@@ -17,10 +17,10 @@ Whilst supporting repositories focus on specific analytical capabilities, this r
 The framework spans:
 
 - Network Intelligence
-- Trade-Based Money Laundering (TBML)
+- Trade-Based Money Laundering (TBML) Analytics
 - Banking Analytics
 - Capital Markets Analytics
-- Sanctions Analytics
+- Sanctions Exposure Analytics and Maritime Intelligence
 - Emerging Threat Intelligence
 - Detection Strategy
 - AI-Enabled Financial Crime Operations
